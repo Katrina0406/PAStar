@@ -1,5 +1,7 @@
 # Parallel A* Search Project
 
+#### Forked from the original project I collaborated with my teammate.
+
 ### Final Report: https://katrina0406.github.io/parallel_astar_search/assets/15418-Final-Report.pdf
 
 ### Project Website: https://katrina0406.github.io/parallel_astar_search/
